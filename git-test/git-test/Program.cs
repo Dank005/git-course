@@ -8,7 +8,7 @@ namespace git_test
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Hellow Git");
+            Console.WriteLine("Hello Git");
         }
     }
 }
